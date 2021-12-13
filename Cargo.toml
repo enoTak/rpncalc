@@ -1,0 +1,11 @@
+[package]
+name = "rpncalc"
+version = "1.0.1"
+edition = "2021"
+
+[features]
+
+[dependencies]
+anyhow = "1.0.51"
+clap = "3.0.0-beta.2"
+clap_derive = "3.0.0-rc.4"
